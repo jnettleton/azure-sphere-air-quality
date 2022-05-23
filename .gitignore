@@ -1,3 +1,8 @@
+# Ignore output directories
+/out/
+/install/
+/.vs/
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
